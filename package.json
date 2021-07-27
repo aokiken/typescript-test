@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:aokiken/typescript-test.git",
   "author": "aokiken <aokiken@me.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
 }
