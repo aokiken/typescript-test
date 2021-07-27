@@ -15,5 +15,9 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.171",
+    "lodash": "^4.17.21"
   }
 }
